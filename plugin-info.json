@@ -3,7 +3,7 @@
   "slug": "interactive-map",
   "version": "2.0",
   "author": "Clirim Kurti",
-  "download_url": "https://github.com/ClirimKurti/interactive-map/releases/download/interactive-map-2/interactive-map.zip",
+  "download_url": "https://github.com/ClirimKurti/interactive-map/releases/download/v2.2.2/interactive-map-plugin.zip",
   "requires": "5.0",
   "tested": "6.0",
   "last_updated": "2024-10-10",
