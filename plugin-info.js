@@ -1,9 +1,9 @@
 {
   "name": "Interactive Map",
   "slug": "interactive-map",
-  "version": "1.5",
+  "version": "2.0",
   "author": "Clirim Kurti",
-  "download_url": "https://github.com//ClirimKurti/interactive-map/releases/download/interactive-map/interactive-map.8.zip",
+  "download_url": "https://github.com/ClirimKurti/interactive-map/releases/download/interactive-map-2/interactive-map.zip",
   "requires": "5.0",
   "tested": "6.0",
   "last_updated": "2024-10-10",
